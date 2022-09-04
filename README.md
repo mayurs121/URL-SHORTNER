@@ -5,4 +5,4 @@ This is Python Flask app  . This app takes an URL and shortens it . For each lon
 Heroku: Cloud Application Platform
 
 # Visit & Short URL 
-[Your Link Here](https://tinyurl-mayur.herokuapp.com/) 
+[https://tinyurl-mayur.herokuapp.com/]
